@@ -1,6 +1,8 @@
 # gameicons
 
-gameicons is a game-inspired icon set originally created for [tivtrackr.com](http://tivtrackr.com) and inspired by [Antiseptic Videogame System Icons](http://starvingartist.deviantart.com/art/Antiseptic-Videogame-Systems-23217105).
+png & webp 16x16 game system icons
+
+forked from [scurker/gamicons](https://github.com/scurker/gamicons)
 
 ## Icons
 
